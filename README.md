@@ -1,6 +1,6 @@
-# Nerfies
+# Sign Language Production
 
-This is the repository that contains source code for the [Nerfies website](https://slp.github.io).
+This is the repository that contains source code for the [KKT website](https://slp.github.io)](https://khakimthuy.github.io/slp.github.io/).
 
 If you find Nerfies useful for your work please cite:
 ```
